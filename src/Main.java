@@ -6,5 +6,6 @@ public class Main {
         bs.color = "Black";
         bs.model = "A3";
         bs.power = "5000cc";
+        bs.automatic="true";
     }
 }
