@@ -6,6 +6,11 @@ public class Main {
         bs.color = "Black";
         bs.model = "A3";
         bs.power = "5000cc";
-        bs.automatic="true";
+
+        Engine x=new Engine();
+        x.cylinders="8";
+        x.size="4343cc";
+        x.weight="3000k";
+
     }
 }
